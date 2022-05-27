@@ -1,13 +1,135 @@
-<html lang="en">
+
+<!DOCTYPE html>
+
+<html lang="en"><meta name="viewport" content="width=device-width, initial-scale=1">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="styles.css">
+  <title>Home</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Lato&display=swap">
+  <link rel="stylesheet" type="text/css" href="/styles.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Bad Script'>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="/typing.js"></script>
+  <script src="/counter.js"></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-167569731-1"></script>
+  <script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+  	gtag('config', 'UA-167569731-1');
+  </script>
 </head>
-<body>
-    <h1>Krishna's Website Coming Soon</h1>
-    <p> Stay Tuned!</p>
+
+<body style="background-image: url('/background.png');">
+	
+	<!-- Google Translate -->
+	<div id="google_translate_element"></div>
+	<script type="text/javascript">
+		function googleTranslateElementInit() {
+			new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+		}
+  </script>
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+	
+  <!-- Header -->
+	<main class="page-content" aria-label="Content">
+    <div class="wrapper">
+			<div class="header">
+				<img class="profile" src="https://i.imgur.com/cNp8yT5.jpeg">
+      		<h1 class="profile-name">Krishna Agarwall</h1>
+          <h2 style="font-family: 'Bad Script', Sans-serif; font-size: 20px; color: dimgray; font-weight: bolder; text-decoration-line: underline; text-decoration-style: wavy; margin-top: -20px"><span class="txt-rotate" data-period="1000" data-rotate='["Full Stack Developer", "Software Engineer", "Embedded Aficionado"]'></span></h2>
+      		<a href="https://www.instagram.com/prateek.goyal18/" target="_blank"><i class="fab fa-instagram faicon"></i></a>
+      		&nbsp;
+      		<a href="https://twitter.com/Prateekg18" target="_blank"><i class="fab fa-twitter faicon"></i></a>
+     	 		&nbsp;
+     	 		<a href="https://www.linkedin.com/in/prateekgoyal18/" target="_blank"><i class="fab fa-linkedin-in faicon"></i></a>
+      		&nbsp;
+      		<a href="https://github.com/PrateekGoyal18" target="_blank"><i class="fab fa-github faicon"></i></a>
+      		&nbsp;
+      		<a id="email" target="_blank"><i class="fas fa-envelope faicon"></i></a>
+
+      		<script type="text/javascript">
+      			const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
+      			let a = document.getElementById('email');
+        			if(vw <= 800) {
+        				a.href = "mailto:prateekg045@gmail.com"
+        			}
+	          	else {
+	          		a.href = "https://mail.google.com/mail/?view=cm&fs=1&to=prateekg045@gmail.com"
+	          	}
+	        </script>
+
+	        <div class="pure-menu pure-menu-horizontal pure-menu-scrollable">
+            <ul class="pure-menu-list">
+              <li class="pure-menu-item header-active"><a href="index.html" class="pure-menu-link">Home</a></li>
+          		<li class="pure-menu-item"><a href="projects.html" class="pure-menu-link">Projects</a></li>
+   			      <li class="pure-menu-item"><a href="publications.html" class="pure-menu-link">Publications</a></li>
+              <li class="pure-menu-item"><a href="works.html" class="pure-menu-link">Works</a></li>
+          		<li class="pure-menu-item"><a href="https://canvasoflearning.wordpress.com/" class="pure-menu-link">Blog</a></li>
+        		</ul>
+      		</div>
+    		</div>
+    	</div>
+  </main>
+
+  <!-- Page content -->
+  <div class="content">
+  	<!-- Introduction -->
+    <div>
+      <h1 id="hello">Hello!</h1>
+      <p>I’m Prateek, a Research Associate at Indian Institute of Technology, Delhi's <a class="links" href="http://ee.iitd.ernet.in" target="_blank">Department of Electrical Engineering</a> and <a class="links" href="http://ces.iitd.ac.in/" target="_blank"> Centre for Energy Studies</a>. I graduated from Guru Gobind Singh Indraprastha University in 2018 with a degree in electronics and communication engineering. I currently work with the team at EPRES Lab in a government of India funded project titled "Energy Efficient Buildings: Technology with Intelligence", where I focus on designing hardware and software solutions for making homes and buildings smarter.</p>
+      <p>I have previouly worked at <a class="links" href="https://www.banaao.co.in/" target="_blank">Banaao Innovation Labs</a> as a summer intern where I designed several hardware-based solutions for home automation and as a Quality Assurance Trainee in <a class="links" href="http://www.dgqadefence.gov.in/dqa%28n%29" target="_blank">Indian Navy</a>, performing various quality assurance tests on naval equipments. Outside of engineering background, I've also worked at <a class="links" href="https://unacademy.com/" target="_blank">Unacademy</a> as an educator teaching students concepts of quantitative and logical reasoning for government exams, and has been a part of <a class="links" href="https://nss.gov.in/" target="_blank">NSS group</a> of our college involved in environmental activities and teaching economically weak students.</p>
+      <p>My interest lies in embedded systems, internet of things and smart grids, coupled with neural approach. I love to travel and like playing outdoor games especially volleyball, basketball and cricket.</p>
+    </div>
+
+  	<!-- Cards -->
+  	<div class="container cards-container">
+  		<div class="card">
+  			<div class="row"><div class="col"><i class="fa fa-code fa-2x"></i></div></div>
+      		<div class="row"><div class="col"><h2 class="timer count-title count-number" data-to="30000" data-speed="3000"></h2></div></div>
+      		<div class="row"><div class="col"><p class="count-text" style="text-align: center !important;">Lines of Code written</p></div></div>
+      	</div>
+
+      	<div class="card">
+      		<div class="row"><div class="col"><i class="fa fa-coffee fa-2x"></i></div></div>
+      		<div class="row"><div class="col"><h2 class="timer count-title count-number" data-to="1000" data-speed="3000"></h2></div></div>
+     	 		<div class="row"><div class="col"><p class="count-text" style="text-align: center !important;">Cups of coffee drank</p></div></div>
+    		</div>
+
+    		<div class="card">
+    			<div class="row"><div class="col"><i class="fas fa-lightbulb fa-2x"></i></div></div>
+        	<div class="row"><div class="col"><h2 class="timer count-title count-number" id="projects" data-to="20" data-speed="3000"></h2></div></div>
+		
+			<script type="text/javascript">
+				$(function() {
+					setTimeout(function() {
+						$("#projects").html("20+");
+					}, 4000);
+				});
+			</script>
+
+			<div class="row"><div class="col"><p class="count-text" style="text-align: center !important;">Projects Done</p></div></div>
+      	</div>
+
+      	<div class="card">
+      		<div class="row"><div class="col"><i class="fa fa-bug fa-2x"></i></div></div>
+      		<div class="row"><div class="col"><h2 class="timer count-title count-number" data-to="2000" data-speed="3000"></h2></div></div>
+      		<div class="row"><div class="col"><p class="count-text" style="text-align: center !important;">Bugs squashed</p></div></div>
+    		</div>
+    	</div>
+
+  <!-- <script type="text/javascript">
+  	$("div.tab").on('click', function() {
+  		console.log(this)
+  		// $(this).css({'background-color': 'red'});
+  	});
+  </script> -->
+
 </body>
+
 </html>
