@@ -3,63 +3,85 @@
     
     {
         "id": 1,
-        "name": "E-Mail Classification ML Model",
-        "desc": "Classify emails as spam or not-spam on the basis of the message.[Naive Bayes, Numpy, Pandas and Sklearn].",
-        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933127/mlpr_c2stn8.jpg",
+        "name": "Weather Fetcher",
+        "desc": "A weather fetcher application that fetches the weather of a city using the OpenWeatherMap API & Python.",
+        "image": "https://i.imgur.com/BTVbWae.jpeg",
         "links": {
-            "view": "https://github.com/SauravMukherjee44/Email-Classification-Model/blob/main/Model/email_classification.ipynb",
-            "code": "https://github.com/SauravMukherjee44/Email-Classification-Model"
+            "view": "https://github.com/MrKrishnaAgarwal/Weather-Fetcher/blob/main/Weather%20Fetcher%20Test.png",
+            "code": "https://github.com/MrKrishnaAgarwal/Weather-Fetcher"
         }
     },
     {
         "id": 2,
-        "name": "COVID-19 Outbreak Analysis",
-        "desc": "We all know that coronavirus is spreading on a daily basis in India. So, let's try to visualise how fast it is spreading.",
-        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933140/covidml_pdaxpu.png",
+        "name": "Portfolio Website",
+        "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+        "image": "https://i.imgur.com/xjJrY5A.png",
         "links": {
-            "view": "https://github.com/SauravMukherjee44/COVID-19-Outbreak-Analysis-Using-Data-Science/blob/main/COVID-19%20Outbreak%20Analysis%20.ipynb",
-            "code": "https://github.com/SauravMukherjee44/COVID-19-Outbreak-Analysis-Using-Data-Science"
+            "view": "https://mrkrishnaagarwal.github.io/KrishnaAgarwal",
+            "code": "https://github.com/MrKrishnaAgarwal/KrishnaAgarwal"
         }
     },
     {
         "id": 3,
-        "name": "TITANIC-SURVIVOUR-ANALYSIS",
-        "desc": "In this project we are going to build an artificial intelligence neural network to check whether they survived the titanic incident or not",
-        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933129/Titanic_nuxdgz.png",
+        "name": "Face Detection",
+        "desc": "Developed a program that can detect human faces in real-time using the Haar cascade classifier for face recognition",
+        "image": "https://i.imgur.com/6fdIeDl.png",
         "links": {
-            "view": "https://github.com/SauravMukherjee44/TITANIC-SURVIVOUR-ANALYSIS/blob/main/Titanic_Survivors_Analysis_By_Saurav_.ipynb",
-            "code": "https://github.com/SauravMukherjee44/TITANIC-SURVIVOUR-ANALYSIS"
+            "view": "https://github.com/MrKrishnaAgarwal/Face-Detection/blob/main/Testing%20Face%20Detection.mp4?raw=true",
+            "code": "https://github.com/MrKrishnaAgarwal/Face-Detection"
         }
     },
     {
         "id": 4,
-        "name": "Portfolio Website",
-        "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
-        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1628532035/portfolio-Saurav_pbvufi.png",
+        "name": "Letter Animations using CSS",
+        "desc": "We can display the Text letter by letter like Typewriter text effect using CSS animation properties, Javascript & HTML.",
+        "image": "https://i.imgur.com/FazYcbq.png",
         "links": {
-            "view": "https://sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/",
-            "code": "https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee"
+            "view": "https://codepen.io/MrKrishnaAgarwal/full/zYperwE",
+            "code": "https://github.com/MrKrishnaAgarwal/Letter-Animations"
         }
     },
     
     {
         "id": 5,
-        "name": "College Library Website",
-        "desc": "This is a College Library Website in which you can keep a record of all the books you have issued.© 2021 Saurav Mukherjee",
-        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1631398033/44_veugbf.png",
+        "name": "Minecraft Game Clone with 2 Editions",
+        "desc": "Minecraft Ball Edition & Minecraft Original Game Clone using Python & Ursina Engine",
+        "image": "https://i.imgur.com/1ZW9FOU.jpeg",
         "links": {
-            "view": "https://sauravmukherjee44.github.io/Aec-Library-Website/",
-            "code": "https://github.com/SauravMukherjee44/Aec-Library-Website"
+            "view": "https://youtu.be/1AXSDb7TbB8",
+            "code": "https://github.com/MrKrishnaAgarwal/Minecraft-Game-Clone"
         }
     },
     {
         "id": 6,
-        "name": "Netflix Clone | React-App",
-        "desc": "Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup.",
-        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1628532262/Netflix_ty1ofn.png",
+        "name": "Squid Game | Glass Bridge",
+        "desc": "Glass Bridge Game, players had to hop across a suspended bridge lined with panels of either regular or tempered glass",
+        "image": "https://i.imgur.com/HJDYIFF.jpeg",
         "links": {
-        "view": "https://netflix-clone-saurav.herokuapp.com/",
-        "code": "https://github.com/SauravMukherjee44/Netflix-Clone-PC-App"
+        "view": "https://youtu.be/DaCW4hBmr8Y",
+        "code": "https://github.com/MrKrishnaAgarwal/Squid-Game-Glass-Bridge"
+        }
+    },
+    
+    {
+        "id": 7,
+        "name": "Space Invaders Clone",
+        "desc": "Space Invaders Clone using Python & Ursina Engine with a few tweaks",
+        "image": "https://i.imgur.com/tQdd70A.jpeg",
+        "links": {
+            "view": "https://youtu.be/oKMfvEbqX6w",
+            "code": "https://github.com/MrKrishnaAgarwal/Space-Invaders-Clone"
+        }
+    },
+    
+    {
+        "id": 8,
+        "name": "Background Generator",
+        "desc": "This CSS background generator shows the Current Background and You can change background according to your choice.",
+        "image": "https://i.imgur.com/Tr4gMz9.png",
+        "links": {
+            "view": "https://mrkrishnaagarwal.github.io/Backround-Generator",
+            "code": "https://github.com/MrKrishnaAgarwal/Backround-Generator"
         }
     }
 
