@@ -83,6 +83,39 @@
             "view": "https://mrkrishnaagarwal.github.io/Backround-Generator",
             "code": "https://github.com/MrKrishnaAgarwal/Backround-Generator"
         }
+    },
+    
+    {
+        "id": 9,
+        "name": "Firework Animation",
+        "desc": "This is a Firework Animation using CSS Animation Properties",
+        "image": "https://i.imgur.com/Pr6mm1J.jpeg",
+        "links": {
+            "view": "https://mrkrishnaagarwal.github.io/Firework-Animation",
+            "code": "https://github.com/MrKrishnaAgarwal/Firework-Animation"
+        }
+    },
+    
+    {
+        "id": 10,
+        "name": "Live Visitors Counter",
+        "desc": "This is a Live Visitors Counter using API with JavaScript which will track how many times a page was visited.",
+        "image": "https://i.imgur.com/gD9Ksmn.png",
+        "links": {
+            "view": "https://mrkrishnaagarwal.github.io/Live-Visit-Count",
+            "code": "https://github.com/MrKrishnaAgarwal/Live-Visit-Count"
+        }
+    },
+    
+    {
+        "id": 11,
+        "name": "Random Password Generator",
+        "desc": "This is a Random Password Generator using JavaScript which will generate a random password of your choice.",
+        "image": "https://imgur.com/a/5xgSITx",
+        "links": {
+            "view": "https://mrkrishnaagarwal.github.io/Password-Generator",
+            "code": "https://github.com/MrKrishnaAgarwal/Password-Generator"
+        }
     }
 
     
