@@ -521,15 +521,15 @@ header .navbar ul li a:hover{
   border-radius: 4px;
 }
 .skills .container .col .bar .html:before{
-  width: 90%;
+  width: 80%;
   background: #e03d0b;
 }
 .skills .container .col .bar .css:before{
-  width: 82%;
+  width: 70%;
   background: #2962ff;
 }
 .skills .container .col .bar .javascript:before{
-  width: 82%;
+  width: 75%;
   background: #ffd900;
 }
 .skills .container .col .bar .jquery:before{
@@ -537,15 +537,15 @@ header .navbar ul li a:hover{
   background: #3d10dd;
 }
 .skills .container .col .bar .php:before{
-  width: 84%;
+  width: 90%;
   background: #8054c7;
 }
 .skills .container .col .bar .mysql:before{
-  width: 80%;
+  width: 95%;
   background: #f38b03;
 }
 .skills .container .col .bar .reactjs:before{
-  width: 55%;
+  width: 90%;
   background: #2962ff;
 }
 .skills .container .col .bar .java:before{
@@ -574,7 +574,7 @@ header .navbar ul li a:hover{
 }
 .skills .container .col .bar .firebase:before{
   width: 90%;
-  background: #ffae00;
+  background: #04ff00;
 }
 
 /* skills media queries starts*/
@@ -927,7 +927,7 @@ header .navbar ul li a:hover{
   font-weight: 600;
 }
 .experience .content .desc p{
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 /* view all button */
 .morebtn{
