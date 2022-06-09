@@ -47,7 +47,8 @@ If you want to contact me, you can reach me through below handles.
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://bit.ly/TheKrishnaPortfolio)
   
 <br>
-  <h4>Special Thanks to Contributors </h4>
-  <br>
+  <h4>Special Thanks to Jigar Sable for the inspiration
+ 
+
   
-![GitHub Contributors Image](https://contrib.rocks/image?repo=MrKrishnaAgarwal/KrishnaAgarwal)
+
