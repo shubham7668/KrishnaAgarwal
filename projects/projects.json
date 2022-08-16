@@ -12,16 +12,6 @@
         }
     },
     {
-        "id": 2,
-        "name": "Portfolio Website",
-        "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
-        "image": "https://i.imgur.com/xjJrY5A.png",
-        "links": {
-            "view": "https://mrkrishnaagarwal.github.io/KrishnaAgarwal",
-            "code": "https://github.com/MrKrishnaAgarwal/KrishnaAgarwal"
-        }
-    },
-    {
         "id": 3,
         "name": "Face Detection",
         "desc": "Developed a program that can detect human faces in real-time using the Haar cascade classifier for face recognition",
