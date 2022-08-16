@@ -3,108 +3,11 @@
     
     {
         "id": 1,
-        "name": "Weather Fetcher",
-        "desc": "A weather fetcher application that fetches the weather of a city using the OpenWeatherMap API & Python.",
-        "image": "https://i.imgur.com/BTVbWae.jpeg",
+        "name": "404",
+        "desc": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+        "image": "https://i.imgur.com/bQxQ6Yk.png",
         "links": {
-            "view": "https://github.com/MrKrishnaAgarwal/Weather-Fetcher/blob/main/Weather%20Fetcher%20Test.png",
-            "code": "https://github.com/MrKrishnaAgarwal/Weather-Fetcher"
-        }
-    },
-    {
-        "id": 3,
-        "name": "Face Detection",
-        "desc": "Developed a program that can detect human faces in real-time using the Haar cascade classifier for face recognition",
-        "image": "https://i.imgur.com/6fdIeDl.png",
-        "links": {
-            "view": "https://github.com/MrKrishnaAgarwal/Face-Detection/blob/main/Testing%20Face%20Detection.mp4?raw=true",
-            "code": "https://github.com/MrKrishnaAgarwal/Face-Detection"
-        }
-    },
-    {
-        "id": 4,
-        "name": "Letter Animations using CSS",
-        "desc": "We can display the Text letter by letter like Typewriter text effect using CSS animation properties, Javascript & HTML.",
-        "image": "https://i.imgur.com/FazYcbq.png",
-        "links": {
-            "view": "https://codepen.io/MrKrishnaAgarwal/full/zYperwE",
-            "code": "https://github.com/MrKrishnaAgarwal/Letter-Animations"
-        }
-    },
-    
-    {
-        "id": 5,
-        "name": "Minecraft Game Clone with 2 Editions",
-        "desc": "Minecraft Ball Edition & Minecraft Original Game Clone using Python & Ursina Engine",
-        "image": "https://i.imgur.com/1ZW9FOU.jpeg",
-        "links": {
-            "view": "https://youtu.be/1AXSDb7TbB8",
-            "code": "https://github.com/MrKrishnaAgarwal/Minecraft-Game-Clone"
-        }
-    },
-    {
-        "id": 6,
-        "name": "Squid Game | Glass Bridge",
-        "desc": "Glass Bridge Game, players had to hop across a suspended bridge lined with panels of either regular or tempered glass",
-        "image": "https://i.imgur.com/HJDYIFF.jpeg",
-        "links": {
-        "view": "https://youtu.be/DaCW4hBmr8Y",
-        "code": "https://github.com/MrKrishnaAgarwal/Squid-Game-Glass-Bridge"
-        }
-    },
-    
-    {
-        "id": 7,
-        "name": "Space Invaders Clone",
-        "desc": "Space Invaders Clone using Python & Ursina Engine with a few tweaks",
-        "image": "https://i.imgur.com/tQdd70A.jpeg",
-        "links": {
-            "view": "https://youtu.be/oKMfvEbqX6w",
-            "code": "https://github.com/MrKrishnaAgarwal/Space-Invaders-Clone"
-        }
-    },
-    
-    {
-        "id": 8,
-        "name": "Background Generator",
-        "desc": "This CSS background generator shows the Current Background and You can change background according to your choice.",
-        "image": "https://i.imgur.com/Tr4gMz9.png",
-        "links": {
-            "view": "https://mrkrishnaagarwal.github.io/Backround-Generator",
-            "code": "https://github.com/MrKrishnaAgarwal/Backround-Generator"
-        }
-    },
-    
-    {
-        "id": 9,
-        "name": "Firework Animation",
-        "desc": "This is a Firework Animation using CSS Animation Properties",
-        "image": "https://i.imgur.com/Pr6mm1J.jpeg",
-        "links": {
-            "view": "https://mrkrishnaagarwal.github.io/Firework-Animation",
-            "code": "https://github.com/MrKrishnaAgarwal/Firework-Animation"
-        }
-    },
-    
-    {
-        "id": 10,
-        "name": "Live Visitors Counter",
-        "desc": "This is a Live Visitors Counter using API with JavaScript which will track how many times a page was visited.",
-        "image": "https://i.imgur.com/gD9Ksmn.png",
-        "links": {
-            "view": "https://mrkrishnaagarwal.github.io/Live-Visit-Count",
-            "code": "https://github.com/MrKrishnaAgarwal/Live-Visit-Count"
-        }
-    },
-    
-    {
-        "id": 11,
-        "name": "Random Password Generator",
-        "desc": "This is a Random Password Generator using JavaScript which will generate a random password of your choice.",
-        "image": "https://bit.ly/3NAksny",
-        "links": {
-            "view": "https://mrkrishnaagarwal.github.io/Password-Generator",
-            "code": "https://github.com/MrKrishnaAgarwal/Password-Generator"
+            "view": "https://www.mrkrishna.me/KrishnaAgarwal/projects/index.html"        
         }
     }
 
