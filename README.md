@@ -41,14 +41,5 @@ If you want to contact me, you can reach me through below handles.
 
 </div>
 
-  <h4>© 2022 - Present, Krishna Agarwal, All Rights Reserved</h4>
-
 [![Badge](https://forthebadge.com/images/badges/built-with-love.svg)](https://bit.ly/TheKrishnaPortfolio)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://bit.ly/TheKrishnaPortfolio)
-  
-<br>
-  <h4>Special Thanks to Jigar Sable for the inspiration
- 
-
-  
-
